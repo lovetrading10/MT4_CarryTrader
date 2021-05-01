@@ -64,4 +64,3 @@ npm install
 
 ## Meta
 
-> If you have some problem when you use this system, Please contact me to follow Address.
